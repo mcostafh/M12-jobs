@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eq3kZmHubJ5bJ1dKHloFl++5vpjAvK+qkGRNv9bB8ywzrbwqwjG/Z82E6qc5WK+HpRC1WWfWKvyv5Oi6win2lA==",
+  "success": true,
+  "projectFilePath": "C:\\Sistemas\\ProjetoM12\\M12-Jobs\\M12-Jobs\\M12-Jobs\\M12-Jobs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manue\\.nuget\\packages\\cronos\\0.7.1\\cronos.0.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
